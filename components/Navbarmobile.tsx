@@ -28,8 +28,8 @@ const Navbarmobile = () => {
         </SheetTrigger>
         <SheetContent side="left" className="border-none bg-dark-1">
           <Link href="/" className="flex items-center gap-1">
-            <Image src="/icons/logo.svg" width={32} height={32} alt="Logo" />
-            <p className="text-[32px] font-extrabold text-white ">Look</p>
+            <Image src="/icons/PNG-03.png" width={32} height={32} alt="Logo" />
+            <p className="text-[32px] font-extrabold text-white ">CO Meet</p>
           </Link>
 
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
